@@ -2,6 +2,8 @@
 
 Projeto em grupo realizado no Bootcamp da SoulCode no curso de Engenharia de dados, turma BC17.
 
+O tema do projeto é Telecomunicações.
+
 Os membros do grupo são Gabriel Janjacomo, Victor Ribeiro, Luma Guimarães e Jum Saheki.
 
 ##  Descrição
